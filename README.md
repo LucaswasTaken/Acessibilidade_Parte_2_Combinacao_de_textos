@@ -1,5 +1,6 @@
 # Acessibilidade_Parte_2_Segmenta-o_de_textos
 ![alt text](https://zenodo.org/badge/303207712.svg)
+
 O código principal em Python se encontra na pasta "/scr", e os métodos extras se encontram no caderno Jupyter.
 
 Esse repositório contém implementação python e formulação matemática das combinações completas ordenadas de palavras em uma frase. Sua implementação está ligada a combinação de palavras utilizadas que podem ser utilizadas na linguagem Libras.
